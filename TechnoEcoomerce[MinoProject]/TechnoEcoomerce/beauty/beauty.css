@@ -1,0 +1,39 @@
+
+  .card-title{
+     margin-top: 62px;
+  }
+  p{
+     color: black;
+     font-weight: bold;
+  }
+  
+  .item-1:hover{
+   cursor: pointer;
+  }
+  .container-5:hover{
+   cursor: pointer;
+  }
+  .container-5 img{
+  width: 130px;  
+  margin-left: 150px;
+  margin-top: 25px;
+  }
+  .content ul{
+   margin-left: 500px;
+   margin-top: -215px;
+  }
+  .btn-danger{
+   margin-left: 1500px;
+  }
+  
+  .checked{
+    color: orange;
+  }
+  /* dress  */
+  
+    .item-11{
+   margin-top: 35px;
+    display: inline-flex;
+  }
+
+ 

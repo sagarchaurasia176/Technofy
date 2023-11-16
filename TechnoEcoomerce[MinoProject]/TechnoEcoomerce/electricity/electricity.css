@@ -1,0 +1,218 @@
+   
+ .footer{
+  background-color: rgb(0, 0, 0);
+  /* color: white; */
+  display: flex;
+  height: 55vh;
+  margin-top: 150px;
+}
+.container-fluid a{
+  text-decoration: none;
+  color: black;
+}
+.container-fluid a:hover{
+ transition: all 1s;
+  color: orange;
+}
+ .get{
+  margin-top: 25px;
+  color: whitesmoke;
+  margin-left:150px;
+  font-size: 19px;
+  font-weight: bold;
+ 
+ }
+.list{
+  margin-top: 100px;
+}
+.list ul li{
+  display: flex;
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-180px;
+  /* margin-top: -20px; */
+}
+.list a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+/* list-1 */
+
+.list-1{
+  margin-top: 10px;
+}
+.list-1 ul li{
+ 
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-80px;
+ /* margin-top: 22px; */
+}
+.list-1 ul{
+  margin-top:79px;
+}
+.list-1 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-1 li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+.get-1 {
+  margin-top: 15px;
+  color: whitesmoke;
+  margin-left:180px;
+  font-size: 19px;
+ font-weight: bold;
+ }
+ .list-5{
+  margin-top: 10px;
+}
+.list-5 ul li{
+ 
+  margin-bottom: 5px;
+  padding: 3px;
+  margin-left:-150px;
+ /* margin-top: 22px; */
+}
+.list-5 ul{
+  margin-top:79px;
+}
+.list-5 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-5 li a:hover{
+  color: orangered;
+  transition: all  1s;
+ 
+}
+ 
+/* list 6 */
+.list-6{
+  margin-top: 10px;
+}
+.list-6 li{
+ margin-left:15px;
+  margin-bottom: 5px;
+  /* padding: 3px; */
+
+
+ /* margin-top: 22px; */
+}
+.list-6 ul{
+  display: inline-flex;
+  margin-top:79px;
+  margin-left:-170px;
+}
+.list-6 a{
+  color: white;
+  font-size: 19px;
+  text-decoration: none;
+}
+.list-6 li a:hover{
+  color: orangered;
+  transition: all  1s;
+}
+ 
+/*  */
+.fa-facebook{
+ font-size: 25px;
+ /* width: 25px; */
+ border-radius: 100%;
+}
+ .fa-facebook:hover{
+background-color: blue;
+color: white; 
+cursor: pointer;
+transition: all 1s;
+ }
+ .fa-instagram{
+  font-size: 25px;
+  /* width: 25px; */
+  border-radius: 100%;
+ }
+
+ .fa-instagram:hover{
+  background-color: purple;
+  color: white; 
+  cursor: pointer;
+  transition: all 1s;
+   }
+/* twiteer */
+   .fa-twitter{
+    font-size: 25px;
+    /* width: 25px; */
+    border-radius: 100%;
+   }
+   .fa-twitter:hover{
+    background-color:rgb(6, 189, 209);
+    color: white; 
+    cursor: pointer;
+    transition: all 0.6s;
+     }
+     .list-5 i{
+      display: inline-flex;
+     }
+     .border{
+      margin-top: -150px;
+      border-bottom: 2px solid white;
+     }
+ 
+   /* owl container */
+
+     /* owl header card */
+     .item :hover{
+   cursor:pointer;
+   transition: all 1s;
+   /* background:linear-gradient(rgb(115, 113, 113)); */
+}
+
+.card-title{
+   margin-top: 62px;
+}
+p{
+   color: black;
+   font-weight: bold;
+}
+
+.item-1:hover{
+ cursor: pointer;
+}
+.container-5:hover{
+ cursor: pointer;
+}
+.container-5 img{
+width: 130px;  
+margin-left: 150px;
+margin-top: 25px;
+}
+.content ul{
+ margin-left: 500px;
+ margin-top: -215px;
+}
+.btn-danger{
+ margin-left: 1500px;
+}
+
+.checked{
+  color: orange;
+}
+/* dress  */
+
+.item-10{
+  display:inline-flex;
+  
+}
+.item-11{
+ margin-top: 35px;
+  display: inline-flex;
+}

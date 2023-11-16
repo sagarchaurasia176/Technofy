@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=`, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css" integrity="sha512-1sCRPdkRXhBV2PBLUdRb4tMg1w2YPf37qatUFeS7zlBy7jJI8Lf4VHwWfZZfpXtYSLy85pkm9GaYVYMfw5BC1A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Technokart.in</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Merienda+One&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Concert+One&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="2mobile.css">
+<link rel="stylesheet" href="bootstrap.min.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+<body>
+    <nav class="navbar bg-light">
+        <div class="container-fluid" style="background-color:rgb(254, 254, 254); padding:16px; margin-top:-14px;">
+          <a class="navbar-brand"href="http://127.0.0.1:5500/Technokart.in.html"target="_blank" style="color: rgb(0, 0, 0); font-size: 26px; font-family: 'Merienda One', cursive; font-weight: bold; margin-left: 55px; margin-top: 6px; background-color:white;">Technokart
+            <div class="image logo">
+              <img src="logo/shopping-bag.gif" style="width: 32px; display: flex; margin-left: 150px;margin-top:-32px;background-color: white;">            
+            </div>
+        </a>
+            <div class="link" > </a>
+          <form class="d-flex" role="search" >
+            <input class="form-control me-2" type="search" placeholder="Search for products , brands and more" style="width:710px; margin-left: -1280px; padding:11px;">
+<div class="icon">
+  <i class ="fa-solid fa-magnifying-glass"></i>
+</div>
+          <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal" style="color: rgb(255, 255, 255); background-color:rgb(0, 0, 0); width:150px; font-family:Roboto,Arial,sans-serif; margin-left: 150px;">
+            Hello <img src="man.png"width="30px" style="margin-left: 16px;">
+          </button>
+      </form>
+        </div>
+      </nav>
+<!-- content -->
+<!-- next  -->
+ 
+ <!-- next  -->
+<div class="container-5" style="margin-top: 130px";>
+  <div class="card" style="background-color:rgb(250, 250, 250);">
+   <img class="card-img-top" src="mobile product/product image/4.webp" alt="Card image cap">
+   <div class="card-body">
+   <div class="content">
+     <ul type="none">
+       <li><b style="font-size: 25px;">  Realme9 Pro</b></li><br><br>
+       <li> 
+         3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+         16.59 cm (6.53 inch) HD+ Display<br>
+         13MP + 2MP + 2MP | 5MP Front Camera<br>
+         5000 mAh Lithium-ion Polymer Battery<br>
+         MediaTek Helio G35 Processor </li>
+       </ul>
+       <div class="rate">
+         <p style="color: brown;font-weight: bold;margin-left: 1580px; font-size: 25px; margin-top:-150px;">₹20000<br>
+         </p>
+       </div>
+       <button type="button" class="btn btn-danger" >BuyNow</button>
+       <button type="button" class="btn btn-warning" >Add To Cart</button>
+  </div>
+  </div>
+  </div>
+<!-- next -->
+<div class="container-5" style="margin-top: 130px";>
+  <div class="card" style="background-color:rgb(250, 250, 250);">
+   <img class="card-img-top" src="mobile product/product image/18.webp" alt="Card image cap">
+   <div class="card-body">
+   <div class="content">
+     <ul type="none">
+       <li><b style="font-size: 25px;">  RealmeC31</b></li><br><br>
+       <li> 
+         3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+         16.59 cm (6.53 inch) HD+ Display<br>
+         13MP + 2MP + 2MP | 5MP Front Camera<br>
+         5000 mAh Lithium-ion Polymer Battery<br>
+         MediaTek Helio G35 Processor </li>
+       </ul>
+       <div class="rate">
+         <p style="color: brown;font-weight: bold;margin-left: 1580px; font-size: 25px; margin-top:-150px;">₹25000<br>
+         </p>
+       </div>
+       <button type="button" class="btn btn-danger" >BuyNow</button>
+       <button type="button" class="btn btn-warning" >Add To Cart</button>
+  </div>
+  </div>
+  </div>
+  <!-- next -->
+<div class="container-5" style="margin-top: 130px";>
+  <div class="card" style="background-color:rgb(250, 250, 250);">
+   <img class="card-img-top" src="mobile product/product image/20.webp" alt="Card image cap">
+   <div class="card-body">
+   <div class="content">
+     <ul type="none">
+       <li><b style="font-size: 25px;">  Readmi 10 Prime </b></li><br><br>
+       <li> 
+         3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+         16.59 cm (6.53 inch) HD+ Display<br>
+         13MP + 2MP + 2MP | 5MP Front Camera<br>
+         5000 mAh Lithium-ion Polymer Battery<br>
+         MediaTek Helio G35 Processor </li>
+       </ul>
+       <div class="rate">
+         <p style="color: brown;font-weight: bold;margin-left: 1580px; font-size: 25px; margin-top:-150px;">₹26000<br>
+         </p>
+       </div>
+       <button type="button" class="btn btn-danger" >BuyNow</button>
+       <button type="button" class="btn btn-warning" >Add To Cart</button>
+  </div>
+  </div>
+  </div>
+</div>
+
+  <!-- next -->
+  <div class="container-5" style="margin-top: 130px";>
+    <div class="card" style="background-color:rgb(250, 250, 250);">
+     <img class="card-img-top" src="mobile product/product image/21.webp" alt="Card image cap">
+     <div class="card-body">
+     <div class="content">
+       <ul type="none">
+         <li><b style="font-size: 25px;"> OPPO F19 PRO </b></li><br><br>
+         <li> 
+           3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+           16.59 cm (6.53 inch) HD+ Display<br>
+           13MP + 2MP + 2MP | 5MP Front Camera<br>
+           5000 mAh Lithium-ion Polymer Battery<br>
+           MediaTek Helio G35 Processor </li>
+         </ul>
+         <div class="rate">
+           <p style="color: brown;font-weight: bold;margin-left: 1580px; font-size: 25px; margin-top:-150px;">₹15000<br>
+           </p>
+         </div>
+         <button type="button" class="btn btn-danger" >BuyNow</button>
+         <button type="button" class="btn btn-warning" >Add To Cart</button>
+    </div>
+    </div>
+    </div>
+  </div>
+
+  
+  <!-- next -->
+  <div class="container-5" style="margin-top: 130px";>
+    <div class="card" style="background-color:rgb(250, 250, 250);">
+     <img class="card-img-top" src="mobile product/product image/19.webp" alt="Card image cap">
+     <div class="card-body">
+     <div class="content">
+       <ul type="none">
+         <li><b style="font-size: 25px;">  RedmiNote9</b></li><br><br>
+         <li> 
+           3 GB RAM | 32 GB ROM | Expandable Upto 512 GB
+           16.59 cm (6.53 inch) HD+ Display<br>
+           13MP + 2MP + 2MP | 5MP Front Camera<br>
+           5000 mAh Lithium-ion Polymer Battery<br>
+           MediaTek Helio G35 Processor </li>
+         </ul>
+         <div class="rate">
+           <p style="color: brown;font-weight: bold;margin-left: 1580px; font-size: 25px; margin-top:-150px;">₹12000<br>
+           </p>
+         </div>
+         <button type="button" class="btn btn-danger" >BuyNow</button>
+         <button type="button" class="btn btn-warning" >Add To Cart</button>
+    </div>
+    </div>
+    </div>
+  </div>
+  <br><br>
+   <!-- paging -->
+<nav aria-label="..." style="margin-left: 800px; margin-top: 20px;">
+  <ul class="pagination">
+    <li class="page-item active">
+      <a class="page-link" href="#" tabindex="-1" style="background-color:rgb(15, 189, 186); color: black;">Previous</a>
+    </li>
+    <li class="page-item " style="margin-left: 13px;" ><a class="page-link" href="#">1</a></li>
+    <li class="page-item  active ">
+      <a class="page-link" href="http://127.0.0.1:5500/Pagination%20mobile/2mobile.html"target="_blank">2</a></li>
+ 
+    <li class="page-item "><a class="page-link" href="#">3</a></li>
+    <li class="page-item">
+      <a class="page-link" href="http://127.0.0.1:5500/Pagination%20mobile/3mobiles/3mobile.html"target="_blank"tyle="background-color: black;color: white;margin-left:12px ;">Next</a>
+    </li>
+  </ul>
+</nav>
+    </body>
+    <script src="bootstrap.bundle.min.js"></script>
+    <script src="owl.carousel.js"></script>
+    <script src="slide.js"></script>
+ 
+    </script>
+    </html>

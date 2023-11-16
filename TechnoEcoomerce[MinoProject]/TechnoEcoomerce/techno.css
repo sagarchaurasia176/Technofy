@@ -1,0 +1,227 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Courgette&family=Josefin+Slab:wght@100&display=swap'); */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+ 
+.container-fluid img {
+  width: 45px;
+}
+
+.nav-link li {
+  margin-left: 129px;
+}
+.navbar-nav .nav-item {
+  margin-left: 35px;
+}
+.navbar-nav {
+  margin-left: 335px;
+}
+.fa-user {
+  /* background-color: antiquewhite; */
+  border-radius: 18px;
+  font-size: 22px;
+  position: relative;
+  left: -35px;
+}
+.fa-cart-shopping {
+  color: red;
+  font-size: 17px;
+}
+sub {
+  color: orangered;
+  position: relative;
+  top: -10px;
+}
+.nav-item:hover {
+  transition: 0.6s;
+}
+.carousel-control-prev-icon {
+  color: black;
+  background-color: black;
+}
+.carousel-control-next-icon {
+  color: black;
+  background-color: black;
+}
+.carousel-control-prev {
+  color: black;
+  background-color: rgb(33, 33, 33);
+}
+.carousel-control-next {
+  color: black;
+  background-color: rgb(49, 49, 49);
+}
+/* 
+button {
+  background-color: black;
+} */
+.slide {
+  margin-top: 46px;
+  position: relative;
+
+}
+/* .nav-item img
+  width: 75px;
+  position: relative;
+padding-left: 25px;
+.nav-item span
+  /* color: black; */
+  /* color:darkblue;
+  font-size: 16px;
+  padding-left: 5px;
+font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  */
+
+  #header{
+    width: 100%;
+    height: auto;
+    background-color: rgb(254, 254, 254);
+    padding: 5px;
+  display: inline-flex;
+  }
+ #header ul{
+position: relative;
+width: 90%;
+margin-left: 250px;
+}
+#header li{
+  list-style-type: none;
+  text-decoration: none;
+  float: left;
+  padding-left: 5px;
+  margin-left: 25px;
+/* font-size: 5px; */
+}
+#header a{
+  text-decoration: none;
+}
+ span{
+  margin-left: 25px;
+  color: black;
+  text-align: center;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+ }
+ span:hover{
+color: rgb(0, 204, 44);
+transition: 0.6s;
+ 
+/* transform: matrix3d(25); */
+  }
+  #header.sticky{
+    position: fixed;
+    top: 0px;
+    box-shadow: rgba(3, 2, 2, 0.15) 0px 48px 100px 0px;
+    width: 100%;
+    background-color:rgb(217, 217, 217);
+    color: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+    z-index: 121;
+  }
+
+  /* preloading */
+
+  
+.pre-loader{
+	background: #ffffff;
+	background-position: center center;
+	background-size: 13%;
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 12345;
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	justify-content: center;
+}
+.pre-loader .loader-logo{
+	padding-bottom: 15px;
+}
+.pre-loader .loader-progress{
+	height: 8px;
+	border-radius: 15px;
+	max-width: 200px;
+	margin: 0 auto;
+	display: block;
+	background: #ecf0f4;
+	overflow: hidden;
+}
+.pre-loader .bar{
+	width: 0%;
+	height: 8px;
+	display: block;
+	background: #1b00ff;
+}
+.pre-loader .percent{
+	text-align: center;
+	font-size: 24px;
+	display: none;
+}
+.pre-loader .loading-text{
+	text-align: center;
+	font-size: 18px;
+	font-weight: 500;
+	padding-top: 15px;
+}
+/* col img */
+.col img{
+  display: flex;
+  width:280px;
+}
+.col img:hover{
+transform: rotate(5deg);
+transition: all 0.1s;
+cursor: pointer;
+}
+
+.col-1 img:hover{
+  transition:all 2s;
+  cursor: pointer;
+  transform: rotate(10deg);
+}
+/* swiper */
+ 
+.card img{
+  width: 200px;
+  position: relative;
+  margin-left: 50px;
+margin-top: 5px;
+}
+.card {
+  box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+  /* box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 1px, rgba(0, 0, 0, 0.07) 0px 2px 2px, rgba(0, 0, 0, 0.07) 0px 4px 4px, rgba(0, 0, 0, 0.07) 0px 8px 8px, rgba(0, 0, 0, 0.07) 0px 16px 16px; */
+}
+ 
+.box{
+  border: 1px solid rgb(141, 141, 141);
+  width: 100%;
+  height: 5vh;
+  padding: 18px;
+display:flex;
+box-shadow: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
+}
+ .moveing{
+  margin-left: 605px;
+  position:absolute;
+margin-top: -285px;
+ 
+ }
+ .select-1 ,.select-2,.select-3,.select-4{
+  padding:5px;
+  position: relative;
+  margin-left:15px;
+  margin-top: -5px;
+ }
+
+.item img:hover{
+  transition:all 0.5s;
+  padding: 4px;
+  cursor: pointer;
+}
+ 
+ 
